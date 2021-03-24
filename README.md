@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mingyyu
-- 👀 I’m interested in tg
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on citadel orders
-- 📫 How to reach me ... @thegr8person
+- 👀 I’m interested in things
+- 🌱 I’m currently learning things
+- 💞️ I’m looking to collaborate on things
+- 📫 How to reach me ... somewhere
 
 <!---
 mingyyu/mingyyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
